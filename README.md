@@ -147,3 +147,9 @@ pip install -r requirements.txt
 # 📄 License
 
 This project is developed for educational and learning purposes. Feel free to use and modify it for your own projects while following the respective API providers' terms of service.
+
+---
+
+# Demo 
+
+<img width="1007" height="860" alt="Screenshot 2026-07-30 235021" src="https://github.com/user-attachments/assets/cb27001f-6b44-4b57-bbc2-8a910f551c0d" />
